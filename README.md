@@ -8,4 +8,10 @@ Please, feel free to browse through my repositories and open issues, suggest cha
 
 ## Some stats
 <!--START_SECTION:waka-->
+```text
+TypeScript   9 hrs 44 mins   ██████████████████████░░░   87.39 % 
+JSON         1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+```
 <!--END_SECTION:waka-->
