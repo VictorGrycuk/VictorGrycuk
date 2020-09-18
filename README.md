@@ -2,11 +2,17 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=victorgrycuk&show_icons=true&count_private=true" align="right">
 
+<p align="justify">
 I am a software developer that enjoys to come up with interesting ideas.
+<p/>
 
+<p align= "justify">
 Please, feel free to browse through my repositories and open issues, suggest changes and/or open pull requests. I'm open to learn from critique.
+<p/>
 
+<p align= "justify">
 Lately, I've been playing and doing cool stuff with Microsoft Pipelines, Microsoft bots, and Stream Deck SDK.
+<p/>
 
 ## Some stats :bar_chart:
 <!--START_SECTION:waka-->
