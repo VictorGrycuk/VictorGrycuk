@@ -6,6 +6,8 @@ I am a software developer that enjoys to come up with interesting ideas.
 
 Please, feel free to browse through my repositories and open issues, suggest changes and/or open pull requests. I'm open to learn from critique.
 
+Lately, I've been playing and doing cool stuff with Microsoft Pipelines, Microsoft bots, and Stream Deck SDK.
+
 ## Some stats :bar_chart:
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
