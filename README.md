@@ -6,7 +6,7 @@ I am a software developer that enjoy to come up with interesting ideas.
 
 Please, feel free to browse through my repositories and open issues, suggest changes and/or open pull requests. I'm open to learn from critique.
 
-## Some stats
+## Some stats :bar_chart:
 <!--START_SECTION:waka-->
 ```text
 TypeScript   9 hrs 44 mins   ██████████████████████░░░   87.39 % 
