@@ -1,6 +1,6 @@
 ## Hi there :slightly_smiling_face:
 
-<img src="https://github-readme-stats.vercel.app/api?username=victorgrycuk&show_icons=true&count_private=true" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=victorgrycuk&show_icons=true&count_private=true&title_color=F7941E&icon_color=F7941E" align="right">
 
 <p align="justify">
 I am a software developer that enjoys to come up with interesting ideas.
