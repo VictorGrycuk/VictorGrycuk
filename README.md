@@ -45,10 +45,10 @@ Sunday       65 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 min               █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            1 min               █████████████████████████   100.0%
 
 ```
 
@@ -65,5 +65,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2021
+ Last Updated on 10/11/2021
 <!--END_SECTION:waka-->
