@@ -10,8 +10,13 @@ I am a software developer that enjoys to come up with interesting ideas.
 Please, feel free to browse through my repositories and open issues, suggest changes and/or open pull requests. I'm open to learn from critique.
 <p/>
 
+
 <p align= "justify">
-Lately, I've been playing and doing cool stuff with Microsoft Pipelines, Microsoft bots, and Stream Deck SDK.
+I've been have made some cool stuff with Microsoft Pipelines and Microsoft bots.
+<p/>
+
+<p align= "justify">
+Lately, I have been playing with a wonderful language called Kotlin, and in my free time I like to play around with the Stream Deck SDK.
 <p/>
 
 ## Some stats :bar_chart:
