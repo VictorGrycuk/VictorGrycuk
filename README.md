@@ -50,10 +50,11 @@ Sunday       62 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   33 mins             █████████████████████████   99.83% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 33 mins             █████████████████████████   100.0%
 
 ```
 
@@ -70,5 +71,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2021
+ Last Updated on 16/12/2021
 <!--END_SECTION:waka-->
