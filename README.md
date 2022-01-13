@@ -16,7 +16,7 @@ I've been have made some cool stuff with Microsoft Pipelines and Microsoft bots.
 <p/>
 
 <p align= "justify">
-Lately, I have been playing with a wonderful language called Kotlin, and in my free time I like to play around with the Stream Deck SDK.
+Lately, I have been playing with a wonderful language called Kotlin, and in my free time I can be found tinkering with my Raspberry Pi.
 <p/>
 
 ## Some stats :bar_chart:
