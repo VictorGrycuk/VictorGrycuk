@@ -21,7 +21,7 @@ Lately, I have been playing with a wonderful language called Kotlin, and in my f
 
 ## Some stats :bar_chart:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C235%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C236%20hrs%207%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -52,11 +52,13 @@ Sunday       20 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 52 mins       ██████████████████░░░░░░░   71.64% 
-JSON                     1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   28.36%
+Kotlin                   2 hrs 31 mins       █████████████████░░░░░░░░   67.92% 
+JSON                     43 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.49% 
+CSV                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59%
 
 🔥 Editors: 
-IntelliJ                 4 hrs               █████████████████████████   100.0%
+IntelliJ                 3 hrs 14 mins       █████████████████████░░░░   87.41% 
+VS Code                  28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59%
 
 ```
 
@@ -73,5 +75,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2022 00:50:28 UTC
+ Last Updated on 26/11/2022 00:44:47 UTC
 <!--END_SECTION:waka-->
