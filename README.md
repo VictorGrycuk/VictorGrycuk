@@ -21,7 +21,7 @@ Lately, I have been playing with a wonderful language called Kotlin, and in my f
 
 ## Some stats :bar_chart:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C287%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C292%20hrs%2043%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -52,8 +52,8 @@ Sunday       25 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Kotlin                   11 hrs 2 mins       ███████████████████████░░   92.58% 
-Groovy                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.99% 
+Kotlin                   11 hrs 2 mins       ███████████████████████░░   92.57% 
+Groovy                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.0% 
 Properties               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 
 🔥 Editors: 
@@ -74,5 +74,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2023 00:45:54 UTC
+ Last Updated on 18/01/2023 00:47:27 UTC
 <!--END_SECTION:waka-->
