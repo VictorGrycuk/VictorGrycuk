@@ -21,7 +21,7 @@ Lately, I have been playing with a wonderful language called Kotlin, and in my f
 
 ## Some stats :bar_chart:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C696%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C696%20hrs%2045%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -69,5 +69,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2023 00:43:27 UTC
+ Last Updated on 09/08/2023 00:45:05 UTC
 <!--END_SECTION:waka-->
