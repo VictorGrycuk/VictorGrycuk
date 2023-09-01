@@ -50,10 +50,10 @@ Sunday                   443 commits         ████████░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Kotlin                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -69,5 +69,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2023 00:37:19 UTC
+ Last Updated on 01/09/2023 00:39:53 UTC
 <!--END_SECTION:waka-->
