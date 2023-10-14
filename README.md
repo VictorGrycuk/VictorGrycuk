@@ -50,12 +50,10 @@ Sunday                   443 commits         ████████░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-C#                       51 mins             ██████████████████░░░░░░░   73.53 % 
-Objective-C              17 mins             ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -71,5 +69,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2023 00:39:15 UTC
+ Last Updated on 14/10/2023 00:37:02 UTC
 <!--END_SECTION:waka-->
