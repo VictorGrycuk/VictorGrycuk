@@ -50,11 +50,10 @@ Sunday                   472 commits         █████████░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Java                     0 secs              ████████████████████████░   96.27 % 
-sbt                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -70,5 +69,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2024 00:49:15 UTC
+ Last Updated on 12/09/2024 00:49:55 UTC
 <!--END_SECTION:waka-->
