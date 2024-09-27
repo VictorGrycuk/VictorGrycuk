@@ -21,7 +21,7 @@ Lately, I have been playing with a wonderful language called Kotlin, and in my f
 
 ## Some stats :bar_chart:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C090%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C091%20hrs%2020%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -50,10 +50,13 @@ Sunday                   472 commits         █████████░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     49 mins             ██████████████████████░░░   86.74 % 
+XML                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Kotlin                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            56 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -69,5 +72,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2024 00:52:11 UTC
+ Last Updated on 27/09/2024 00:52:45 UTC
 <!--END_SECTION:waka-->
