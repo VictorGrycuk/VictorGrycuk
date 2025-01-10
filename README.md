@@ -23,39 +23,6 @@ Lately, I have been playing with a wonderful language called Kotlin, and in my f
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C091%20hrs%2035%20mins-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-🌆 Daytime                340 commits         ███████░░░░░░░░░░░░░░░░░░   26.88 % 
-🌃 Evening                624 commits         ████████████░░░░░░░░░░░░░   49.33 % 
-🌙 Night                  280 commits         ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Tuesday                  73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Wednesday                71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Thursday                 208 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Friday                   81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Saturday                 232 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Sunday                   472 commits         █████████░░░░░░░░░░░░░░░░   37.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Argentina/Buenos_Aires
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -69,5 +36,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2025 00:53:54 UTC
+ Last Updated on 10/01/2025 00:55:04 UTC
 <!--END_SECTION:waka-->
