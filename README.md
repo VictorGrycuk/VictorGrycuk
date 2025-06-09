@@ -50,10 +50,11 @@ Sunday                   434 commits         █████████░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   1 min               ████████████████░░░░░░░░░   63.55 % 
+YAML                     1 min               █████████░░░░░░░░░░░░░░░░   36.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -69,5 +70,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/06/2025 01:08:05 UTC
+ Last Updated on 09/06/2025 01:05:49 UTC
 <!--END_SECTION:waka-->
