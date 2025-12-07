@@ -50,10 +50,11 @@ Sunday                   434 commits         █████████░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSV                      5 mins              █████████████████░░░░░░░░   68.55 % 
+HTML                     2 mins              ████████░░░░░░░░░░░░░░░░░   31.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -69,5 +70,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2025 00:59:58 UTC
+ Last Updated on 07/12/2025 01:09:07 UTC
 <!--END_SECTION:waka-->
