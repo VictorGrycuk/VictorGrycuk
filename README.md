@@ -21,7 +21,7 @@ Lately, I have been playing with a wonderful language called Kotlin, and in my f
 
 ## Some stats :bar_chart:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C263%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C263%20hrs%2023%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -50,12 +50,12 @@ Sunday                   434 commits         ████████░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Other                    1 hr 56 mins        █████████████████░░░░░░░░   66.50 % 
-Markdown                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-TypeScript               27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Other                    1 hr 56 mins        █████████████████░░░░░░░░   68.26 % 
+TypeScript               27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Markdown                 26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 54 mins       █████████████████████████   100.00 % 
+Cursor                   2 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -71,5 +71,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2026 01:17:00 UTC
+ Last Updated on 31/01/2026 01:14:13 UTC
 <!--END_SECTION:waka-->
