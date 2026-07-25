@@ -21,6 +21,8 @@ Lately, I have been playing with a wonderful language called Kotlin, and in my f
 
 ## Some stats :bar_chart:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C634%20hrs%2019%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -48,15 +50,15 @@ Sunday                   471 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               10 hrs 29 mins      ████████████░░░░░░░░░░░░░   46.26 % 
-Markdown                 9 hrs 51 mins       ███████████░░░░░░░░░░░░░░   43.47 % 
-CSS                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+TypeScript               9 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.02 % 
+Markdown                 8 hrs 55 mins       ███████████░░░░░░░░░░░░░░   42.96 % 
+CSS                      1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 21 mins      ████████████████████████░   94.21 % 
-VS Code                  1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Claude Code              20 hrs 6 mins       ████████████████████████░   96.82 % 
+VS Code                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 ```
 
 **I Mostly Code in C#** 
@@ -72,5 +74,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 01:56:16 UTC
+ Last Updated on 25/07/2026 01:55:50 UTC
 <!--END_SECTION:waka-->
