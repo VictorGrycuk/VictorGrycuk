@@ -21,7 +21,9 @@ Lately, I have been playing with a wonderful language called Kotlin, and in my f
 
 ## Some stats :bar_chart:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C634%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C473%20hrs%204%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-327%20hrs%2018%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -50,15 +52,39 @@ Sunday                   471 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               8 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.92 % 
-Markdown                 7 hrs 50 mins       ███████████░░░░░░░░░░░░░░   42.45 % 
-CSS                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+TypeScript               8 hrs 8 mins        ████████████░░░░░░░░░░░░░   46.58 % 
+Markdown                 7 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.92 % 
+CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 49 mins      ████████████████████████░   96.52 % 
-VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Claude Code              16 hrs 54 mins      ████████████████████████░   96.81 % 
+VS Code                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 16 hrs 59 mins (97.28%)
+
+✍️ 4,797 lines written by AI, 1,243 lines written by hand (79.42% AI-written)
+
+🔤 434,548,187 Input Tokens, 1,143,672 Output Tokens
+
+💵 $2216.83 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 160 AI Prompts
+
+Opus                     5,204 lines         █████████████████████████   98.79 % 
+Claude                   64 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 79.42% of written lines came from AI
+📝 Concise Prompter — average 364 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 19.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -74,5 +100,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 02:07:42 UTC
+ Last Updated on 28/07/2026 01:49:21 UTC
 <!--END_SECTION:waka-->
