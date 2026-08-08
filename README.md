@@ -52,38 +52,39 @@ Sunday                   549 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               4 hrs 53 mins       ████████████░░░░░░░░░░░░░   49.92 % 
-Markdown                 2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-CSS                      1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               11 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   40.46 % 
+CSS                      7 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+Markdown                 4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Text                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JavaScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 30 mins       ████████████████████████░   96.98 % 
-VS Code                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Claude Code              28 hrs 19 mins      █████████████████████████   98.83 % 
+VS Code                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 33 mins (97.46%)
+⏱ AI Coding Time: 28 hrs 22 mins (99.04%)
 
-✍️ 947 lines written by AI, 2 lines written by hand (99.79% AI-written)
+✍️ 6,355 lines written by AI, 2 lines written by hand (99.97% AI-written)
 
-🔤 217,205,475 Input Tokens, 658,033 Output Tokens
+🔤 783,222,429 Input Tokens, 2,120,543 Output Tokens
 
-💵 $1214.42 Estimated AI Cost This Week
+💵 $3959.87 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 76 AI Prompts
+🧠 12 AI Sessions, 206 AI Prompts
 
-Opus                     1,195 lines         █████████████████████████   100.00 % 
+Opus                     7,140 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📄 Detailed Prompter — average 880 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.48% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📄 Detailed Prompter — average 879 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -99,5 +100,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:15:21 UTC
+ Last Updated on 08/08/2026 01:01:51 UTC
 <!--END_SECTION:waka-->
