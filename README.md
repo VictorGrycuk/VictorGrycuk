@@ -21,9 +21,9 @@ Lately, I have been playing with a wonderful language called Kotlin, and in my f
 
 ## Some stats :bar_chart:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C482%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C484%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-337%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-339%20hrs%2029%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -52,16 +52,37 @@ Sunday                   549 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 23 mins        ███████████████░░░░░░░░░░   59.79 % 
+JSON                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+CSS                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Docker                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+Claude Code              2 hrs 9 mins        ███████████████████████░░   92.81 % 
+VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 18 mins (100.0%)
+
+✍️ 866 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 728,466 Input Tokens, 128,845 Output Tokens
+
+💵 $206.21 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 20 AI Prompts
+
+Opus                     1,050 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 208 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -77,5 +98,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 00:47:52 UTC
+ Last Updated on 18/08/2026 00:46:24 UTC
 <!--END_SECTION:waka-->
