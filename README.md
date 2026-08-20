@@ -21,9 +21,9 @@ Lately, I have been playing with a wonderful language called Kotlin, and in my f
 
 ## Some stats :bar_chart:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C484%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C487%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-339%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-342%20hrs%205%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -52,37 +52,37 @@ Sunday                   551 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               1 hr 29 mins        ███████████████░░░░░░░░░░   61.65 % 
-JSON                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-CSS                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Docker                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.98 % 
+Markdown                 1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Python                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 15 mins       ███████████████████████░░   93.14 % 
-VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Claude Code              4 hrs 44 mins       ████████████████████████░   94.21 % 
+VS Code                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 25 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 55 mins (97.86%)
 
-✍️ 866 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,416 lines written by AI, 140 lines written by hand (94.52% AI-written)
 
-🔤 741,973 Input Tokens, 135,481 Output Tokens
+🔤 1,604,349 Input Tokens, 382,996 Output Tokens
 
-💵 $206.68 Estimated AI Cost This Week
+💵 $232.67 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 23 AI Prompts
+🧠 8 AI Sessions, 40 AI Prompts
 
-Opus                     1,050 lines         █████████████████████████   100.00 % 
+Opus                     2,801 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 204 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 94.52% of written lines came from AI
+📝 Concise Prompter — average 338 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 9.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -98,5 +98,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 00:47:22 UTC
+ Last Updated on 20/08/2026 00:46:46 UTC
 <!--END_SECTION:waka-->
