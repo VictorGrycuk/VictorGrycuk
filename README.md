@@ -21,9 +21,9 @@ Lately, I have been playing with a wonderful language called Kotlin, and in my f
 
 ## Some stats :bar_chart:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C487%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C488%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-342%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-342%20hrs%2039%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -52,34 +52,33 @@ Sunday                   590 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-JavaScript               16 mins             ██████████████░░░░░░░░░░░   56.08 % 
-HTML                     9 mins              ████████░░░░░░░░░░░░░░░░░   32.10 % 
-TypeScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+HTML                     15 mins             ████████████████░░░░░░░░░   62.51 % 
+Other                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+TypeScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
 
 🔥 Editors: 
-Claude Code              28 mins             █████████████████████████   100.00 % 
+Claude Code              24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (100.0%)
+⏱ AI Coding Time: 24 mins (100.0%)
 
-✍️ 1,025 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 886 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 544,422 Input Tokens, 60,777 Output Tokens
+🔤 415,645 Input Tokens, 19,726 Output Tokens
 
-💵 $14.42 Estimated AI Cost This Week
+💵 $9.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 9 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
-Opus                     1,059 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     920 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 109 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 3,377 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -96,5 +95,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 06:02:39 UTC
+ Last Updated on 28/08/2026 08:13:14 UTC
 <!--END_SECTION:waka-->
