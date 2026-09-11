@@ -21,9 +21,9 @@ Lately, I have been playing with a wonderful language called Kotlin, and in my f
 
 ## Some stats :bar_chart:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C488%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C488%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-342%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-343%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -52,16 +52,35 @@ Sunday                   590 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    31 mins             ██████████████░░░░░░░░░░░   55.39 % 
+Python                   25 mins             ███████████░░░░░░░░░░░░░░   44.61 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              50 mins             ██████████████████████░░░   89.47 % 
+VS Code                  5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 56 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 877,582 Input Tokens, 21,978 Output Tokens
+
+💵 $11.18 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 14 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 139 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -77,5 +96,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 02:21:13 UTC
+ Last Updated on 11/09/2026 02:17:14 UTC
 <!--END_SECTION:waka-->
