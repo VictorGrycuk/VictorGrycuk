@@ -52,37 +52,36 @@ Sunday                   590 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Markdown                 36 mins             █████████░░░░░░░░░░░░░░░░   37.93 % 
-Python                   25 mins             ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-Other                    18 mins             █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-YAML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Markdown                 36 mins             █████████████░░░░░░░░░░░░   51.54 % 
+Other                    18 mins             ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+YAML                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-Claude Code              1 hr 29 mins        ███████████████████████░░   93.69 % 
-VS Code                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Claude Code              1 hr 10 mins        █████████████████████████   99.89 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 35 mins (100.0%)
+⏱ AI Coding Time: 1 hr 10 mins (100.0%)
 
 ✍️ 367 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 875,511 Input Tokens, 72,065 Output Tokens
+🔤 810,059 Input Tokens, 63,898 Output Tokens
 
-💵 $12.88 Estimated AI Cost This Week
+💵 $10.47 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 33 AI Prompts
+🧠 7 AI Sessions, 25 AI Prompts
 
 Opus                     372 lines           █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 290 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 351 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -99,5 +98,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 02:41:52 UTC
+ Last Updated on 18/09/2026 02:28:33 UTC
 <!--END_SECTION:waka-->
