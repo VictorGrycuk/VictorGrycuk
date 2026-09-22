@@ -52,35 +52,33 @@ Sunday                   590 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Markdown                 36 mins             █████████████░░░░░░░░░░░░   52.75 % 
-Other                    18 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-YAML                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Other                    6 mins              ███████████████████████░░   91.75 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+PowerShell               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-Claude Code              1 hr 8 mins         █████████████████████████   99.89 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Claude Code              2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 8 mins (100.0%)
+⏱ AI Coding Time: 2 mins (100.0%)
 
-✍️ 143 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 121 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 799,594 Input Tokens, 45,303 Output Tokens
+🔤 510,729 Input Tokens, 14,060 Output Tokens
 
-💵 $9.64 Estimated AI Cost This Week
+💵 $5.32 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 24 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-Opus                     152 lines           █████████████████████████   100.00 % 
+Opus                     128 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 363 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 3,393 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -97,5 +95,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 02:36:53 UTC
+ Last Updated on 22/09/2026 02:38:30 UTC
 <!--END_SECTION:waka-->
